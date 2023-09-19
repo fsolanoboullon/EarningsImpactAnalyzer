@@ -4,7 +4,7 @@
 Welcome to the "Earnings Impact on Stocks and Options" project! This project represents an example of my expertise in data analysis, Python programming, web scraping, and options trading. Beyond showcasing my technical skills, it reflects my genuine passion for the intricacies of financial markets. The primary goal is to demonstrate my ability to harness data to extract valuable insights.
 
 ## Usage
-This project focuses on analyzing earnings impact on stocks and options. To run the analysis, you'll need to access options chain data, which can be obtained from [Kaggle](https://www.kaggle.com/datasets/kylegraupe/aapl-options-data-2016-2020). Follow these steps to get started:
+This project focuses on analyzing earnings impact on stocks and options. To run the analysis, you'll need to access options chain data, which can be obtained from [Kaggle](https://www.kaggle.com/datasets/kylegraupe/aapl-options-data-2016-2020). 
 
 ## Contributing
 If you're interested in contributing to this project or have suggestions for improvement, your contributions are welcome! Here are some ways to get involved:
